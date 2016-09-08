@@ -46,6 +46,8 @@ libraryDependencies ++= {
     "oncue.knobs"                %% "core"                   % "3.8.1a",
     "joda-time"                   % "joda-time"              % "2.9.4",
 
+    "org.joda"                    % "joda-convert"            % "1.8.1",
+
     "org.slf4j"                   % "log4j-over-slf4j"       % "latest.release",
     "ch.qos.logback"              % "logback-classic"        % "latest.release",
     "org.slf4j"                   % "jcl-over-slf4j"         % "latest.release",
